@@ -1,6 +1,6 @@
 package cn.dean.girl.controller;
 
-import cn.dean.girl.Service.GirlService;
+import cn.dean.girl.service.GirlService;
 import cn.dean.girl.domain.Girl;
 import cn.dean.girl.domain.Result;
 import cn.dean.girl.repository.GirlRepository;
